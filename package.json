@@ -1,0 +1,7 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "dependencies": {
+    "@types/node": "^16.11.11"
+  }
+}
